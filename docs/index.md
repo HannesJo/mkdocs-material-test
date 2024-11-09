@@ -3,6 +3,9 @@ My name is Jóhannes and the purpose of this homepage is to document my particip
 [FabLab Ísafjörður](http://fabisa.is) will be my hosting FabLab. 
 
 The homepage is devided into different sections. 
+
 - Pre-FabAcademy
+
 - Assignments
+
 - Final Project
