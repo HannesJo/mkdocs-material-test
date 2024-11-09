@@ -30,7 +30,7 @@ theme:
       primary: black
       accent: grey
   font:
-    text: Crimson Text
+    text: Special Elite
     code: Roboto Mono
 
 plugins:
