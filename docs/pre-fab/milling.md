@@ -12,6 +12,10 @@ I drew the outline in a sketch in Fusion 360, as I'm most familiar with that env
 
 Next I looked for scrap wood that is large enough. I found a piece of 12mm birch plywood that I could cut in half and glue together to double the thickness. 
 
+![Scrap plywood](..//images/plywood1.jpg)
+
+![Glued together](../images/plywood2.jpg)
+
 ## VCarve
 I did the *Job Setup* and imported the dxf-file. Then I needed to align it to the center of the workpiece and mirror it to get the other half and delete some unwanted lines. 
 
