@@ -1,11 +1,8 @@
-# Home
+My name is Jóhannes and the purpose of this homepage is to document my participitation in the preparation course for FabAcademy and the FabAcademy 2025 itself. 
 
-This is where I'm going to document the preparation work in advance to the FabAcademy 2025. 
+[FabLab Ísafjörður](http://fabisa.is) will be my hosting FabLab. 
 
-I'm going to report on the following topics: 
-
-+ [Setting up this homepage](../pre-fab/homepage.md)
-
-+ [Milling with the ShopBot using VCarve](../pre-fab/milling.md)
-
-+ [Creating a PCB](../pre-fab/pcb.md)
+The homepage is devided into different sections. 
+- Pre-FabAcademy
+- Assignments
+- Final Project

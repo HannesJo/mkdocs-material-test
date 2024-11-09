@@ -56,4 +56,9 @@ Go to Settings - Pages and select the branch and save.
 After a refresh you should see the link to your webpage.
 
 ## Finetuning the homepage using packages
-When everything was finally running, I added some features to the homepage by modifying the mkdocs.yml file. 
+When everything was finally running, I added some features to the homepage by modifying the mkdocs.yml file (according to the [Mkdocs-material documentation](https://squidfunk.github.io/mkdocs-material/setup/)). 
+
+One thing that is good to know is the format of the url, when using hyperlinks or inserting images. Make sure to use the relative format depending on the location of the webpage in the directory. 
+```
+(../images/github_pages.png)
+```
