@@ -31,7 +31,7 @@ I selected a 1/2'' straight end mill for the cutting and a 90° engraving bit fo
 
 ![VCarve toolpaths](../images/skjoldur_vcarve3.png)
 
-## Bonus
+### Bonus - Adding a new form tool
 I decided to add a custom form tool to make the outer edge look more nice. The only advantage of adding the custom tool is, that the preview will look as the real workpiece and it's easier to identify possible mistakes, otherwise you could use a normal milling bit in VCarve and put the form bit in the ShopBot, if you know what you're doing. 
 
 I needed to draw the right side profile of the milling bit and with the profile selected went into the *Tool Library* and defined a new tool. 
