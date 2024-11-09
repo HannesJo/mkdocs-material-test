@@ -1,4 +1,5 @@
-site_name: My Docs
+site_name: My FabAcademy 2025 Documentation
+site_url: https://hannesjo.github.io/FabAcademy/
 theme:
   name: material
   features:
@@ -17,14 +18,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: blue grey
+      accent: black 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
-      accent: lime
+      primary: black
+      accent: grey
 
 plugins:
   - search
