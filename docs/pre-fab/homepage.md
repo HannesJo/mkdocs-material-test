@@ -56,4 +56,4 @@ Go to Settings - Pages and select the branch and save.
 After a refresh you should see the link to your webpage.
 
 ## Finetuning the homepage using packages
-
+When everything was finally running, I added some features to the homepage by modifying the mkdocs.yml file. 
