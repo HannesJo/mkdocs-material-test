@@ -52,7 +52,7 @@ git config --global user.name "Your Name"
 ## Creating the page on GitHub
 The files should be visible in the repository, now. 
 Go to Settings - Pages and select the branch and save. 
-![Pages Settings](../docs/images/githug_pages.png)
+![Pages Settings](../images/githug_pages.png)
 After a refresh you should see the link to your webpage.
 
 ## Finetuning the homepage using packages
