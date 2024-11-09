@@ -30,7 +30,8 @@ theme:
       primary: black
       accent: grey
   font:
-    code: Crimson Text
+    text: Crimson Text
+    code: Roboto Mono
 
 plugins:
   - search
