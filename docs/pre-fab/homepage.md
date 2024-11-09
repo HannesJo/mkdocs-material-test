@@ -42,6 +42,17 @@ mkdocs serve
 ```
 to create the actual html webpage and preview it in the browser by clicking on the link in the terminal. 
 
+Watch out: if using the *venv* virtual environment as suggested in the tutorial, you cannot have the mkdocs library install locally as well. 
+Check with 
+```
+mkdocs --version
+```
+if it is installed locally and use
+```
+pip uninstall mkdocs
+```
+to remove it. 
+
 ## Transfering the files to GitHub
 Now it's time to upload the files to GitHub. Use the commit button in the **Source Control** tab and remember to write a short message. Then click on sync changes. If it's the first time syncing to GitHub you need to set the login and password. 
 ```
