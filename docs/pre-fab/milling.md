@@ -43,6 +43,24 @@ Then I added another *2D Profile Toolpath* with an offset for the edge forming, 
 Lastly, I saved the toolpaths into one *.sbp file. 
 
 ## Shopbot
+I fixed the workpiece in the X/Y corner of the shopbot and picked the tools and collets I'm going to use. The spindle was already heated up, so no need to do that again. 
+![Workpiece in the X/Y corner](../pre-fab/sb_workpiece.jpg)
+![Milling bits](../pre-fab/sb_bits.jpg)
+
+First is the V-carving so I put the v-bit into the spindle and used the auto-zero function with the aluminium plate. Also i set the X/Y zero point. Then I added an offset of +5mm to the Z-axis to make a dry run with the tool and check for clearance of the screws. 
+![Z-Zero](../pre-fab/sb_zzero.jpg)
+
+When that was done, I readjusted the Z-offset and ran the first cutting path. 
+![V-carve](../pre-fab/sb_vcarve.jpg)
+That worked well, so I changed the tool to the 1/2 milling bit and did the zeroing for that. During this operation something went wrong and the milling bit cut too deep into the material and crashed into a broken screw, that was hidden in the machine bed below the workpiece. When I realized, what was happening and stopped the router, it was already too late. The bit was bend and the workpiece had become loose.
+![Crash](../pre-fab/sb-crash.jpg)
+
+So what happend? Presumably, the feed/speed was too high for this bit and/or I didn't tighten the collet well enough. So while milling the first path, the vibration caused the milling bit to slowly move out of the collet and therefore cut deeper and deeper - increasing the load and vibration. 
+If it wasn't for the hidden (broken) screw in the end, it would have survived, but unfortunately the bit bend during the collision.
+As this also meant, that I had lost the alignment of the piece - I decided not to continue in the Shopbot and finish the edge milling with the third bit in my handrouter. 
+
+The final result looks like this - not too bad for a rescued crash-piece. 
+
 
 
 

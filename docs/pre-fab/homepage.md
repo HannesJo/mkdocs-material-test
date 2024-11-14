@@ -1,6 +1,8 @@
 # Setting up this Homepage
 
-I decided to follow the recommendation from my supervisor and use *Markdown* as a base for my homepage. To learn the syntax I used this [guide](https://www.markdownguide.org/basic-syntax/). 
+I decided to follow the recommendation from my supervisor and use *Markdown* as a base for my homepage. 
+
+To learn the syntax I used this [guide](https://www.markdownguide.org/basic-syntax/). 
 
 The tutorial I found most helpful is on [Youtube](https://www.youtube.com/watch?v=Q-YA_dA8C20).
 
@@ -42,7 +44,7 @@ mkdocs serve
 ```
 to create the actual html webpage and preview it in the browser by clicking on the link in the terminal. 
 
-Watch out: if using the *venv* virtual environment as suggested in the tutorial, you cannot have the mkdocs library install locally as well. 
+Watch out: if using the *venv* virtual environment, as suggested in the tutorial, you cannot have the mkdocs library installed locally as well. 
 Check with 
 ```
 mkdocs --version
