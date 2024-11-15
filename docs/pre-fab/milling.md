@@ -60,7 +60,7 @@ If it wasn't for the hidden (broken) screw in the end, it would have survived, b
 As this also meant, that I had lost the alignment of the piece - I decided not to continue in the Shopbot and finish the edge milling with the third bit in my handrouter. 
 
 The final result looks like this - not too bad for a rescued crash-piece. 
-[Trophy shield](../pre-fab/skjoldur.jpg)
+![Trophy shield](../pre-fab/skjoldur.jpg)
 
 
 
