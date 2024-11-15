@@ -38,6 +38,7 @@ After soldering the components on the PCB it looks quite okay, but does it work?
 I used the Arduino IDE to write a program. 
 
 To actually being able to connect and program the Attiny a special UDPI programmer is needed. I got one from my instructor and it plugs into the USB-port and appears as a Serial Device. 
+[Attiny connected](../pre-fab/pcb_conn.jpg)
 
 Then I needed to add the *megatinycore* board library in the board manager and select the Attiny 412 board, as well as the COM-Port of the programmer and the type of the programmer. 
 ![Settings Arduio IDE](../pre-fab/arduino_ide.png)
@@ -45,6 +46,7 @@ Then I needed to add the *megatinycore* board library in the board manager and s
 It is important to realise, that the UPDI pin doesn't support a serial connection, so the serial monitor is not available for troubleshooting in the Arduino IDE. 
 
 After a lot of debugging using the led I managed to have the program running and behaving as expected. 
+[Attiny blinking](../pre-fab/pcb_blink.jpg)
 
 Here is the [sketch](../pre-fab/pcb_blink/pcb_blink.ino): 
 
